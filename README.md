@@ -13,6 +13,9 @@ iOS开发者尼克·洛克伍德会带你一步一步体验Core Animation框架�
 - 缓动，帧一帧动画和物理
 - 性能优化和其他更多！
 
+本教程内容来源于 [FeiXu](https://github.com/AttackOnDobby/iOS-Core-Animation-Advanced-Techniques)
+
+原文:[iOS Core Animation: Advanced Techniques](http://www.amazon.com/iOS-Core-Animation-Advanced-Techniques-ebook/dp/B00EHJCORC/ref=sr_1_1?ie=UTF8&qid=1423192842&sr=8-1&keywords=Core+Animation+Advanced+Techniques)
 
 |更新日期    |更新内容
 |----------|--------------------
